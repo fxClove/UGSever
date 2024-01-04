@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "99b41835-b160-4507-9125-937e6ede3dc7",
+    "name": "CloveHypixel",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ed13f48e-a18e-36d2-9ac3-c4a4bcdaa557",
+    "name": "eisenbob",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fd6cde55-3814-3363-a779-ba4e75a79c4b",
+    "name": "fauxClove",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "890a5da4-5e53-4d14-b417-d95460ee9b43",
+    "name": "fauxClove",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b19c1315-09e1-4c09-a23c-70f5defe4988",
+    "name": "eisenbob",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

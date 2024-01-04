@@ -1,0 +1,103 @@
+[13:23:46] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.3
+[13:23:46] [main/INFO]: Loading 17 mods:
+	- fabricloader 0.15.3
+	   \-- mixinextras 0.3.2
+	- ferritecore 6.0.1
+	- java 17
+	- krypton 0.2.3
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- lazydfu 0.1.3
+	- lithium 0.11.2
+	- minecraft 1.20.1
+	- skinrestorer 1.2.4
+	- starlight 1.1.2+fabric.dbc156f
+	- voicechat 1.20.1-2.4.32
+	   |-- fabric-api-base 0.4.29+b04edc7a82
+	   |-- fabric-command-api-v2 2.2.11+b3afc78b82
+	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da82
+	   |-- fabric-lifecycle-events-v1 2.2.20+b3afc78b82
+	   |-- fabric-networking-api-v1 1.3.8+b3afc78b82
+	   \-- fabric-resource-loader-v0 0.11.7+f7923f6d82
+[13:23:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/marku/Desktop/Server2/UGSever/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[13:23:46] [main/INFO]: Compatibility level set to JAVA_16
+[13:23:46] [main/INFO]: Compatibility level set to JAVA_17
+[13:23:46] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[13:23:46] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[13:23:46] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[13:23:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[13:23:53] [main/INFO]: Compression will use Java, encryption will use Java
+[13:23:53] [main/INFO]: [voicechat] Compatibility version 17
+[13:23:53] [main/INFO]: [voicechat] Loading plugins
+[13:23:53] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[13:23:53] [main/INFO]: [voicechat] Initializing plugins
+[13:23:53] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[13:23:53] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack ?
+[13:23:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:23:53] [main/WARN]: Invalid path in datapack: fokastudio:worldgen/biome/README.md, ignoring
+[13:23:53] [main/ERROR]: Spawn data: Not a JSON object: null
+[13:23:56] [main/INFO]: Loaded 7 recipes
+[13:23:56] [main/INFO]: Loaded 1472 advancements
+[13:23:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[13:23:57] [Server thread/INFO]: Loading properties
+[13:23:57] [Server thread/INFO]: Default game type: SURVIVAL
+[13:23:57] [Server thread/INFO]: Generating keypair
+[13:23:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:23:57] [Server thread/INFO]: Using default channel type
+[13:23:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:23:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:23:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:23:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:23:57] [Server thread/INFO]: Preparing level "world"
+[13:23:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:24:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:24:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:24:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:24:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:24:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:24:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:24:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:24:03] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[13:24:03] [Worker-Main-2/INFO]: Preparing spawn area: 36%
+[13:24:04] [Worker-Main-7/INFO]: Preparing spawn area: 72%
+[13:24:04] [Server thread/INFO]: Time elapsed: 4691 ms
+[13:24:04] [Server thread/INFO]: Done (6.646s)! For help, type "help"
+[13:24:04] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[13:24:04] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[13:24:04] [Server thread/INFO]: Nothing changed. The player already is an operator
+[13:26:57] [Server thread/INFO]: fauxClove[/78.156.0.133:63252] logged in with entity id 421 at (73.5, 110.0, 277.5)
+[13:26:57] [Server thread/INFO]: fauxClove joined the game
+[13:26:58] [Server thread/INFO]: [voicechat] Received secret request of fauxClove (17)
+[13:26:58] [Server thread/INFO]: [voicechat] Sent secret to fauxClove
+[13:27:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fd6cde55-3814-3363-a779-ba4e75a79c4b
+[13:27:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fd6cde55-3814-3363-a779-ba4e75a79c4b
+[13:27:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player fauxClove (fd6cde55-3814-3363-a779-ba4e75a79c4b) successfully connected to voice chat
+[13:27:13] [Server thread/INFO]: [fauxClove: Set own game mode to Creative Mode]
+[13:27:26] [Server thread/INFO]: [fauxClove: Set the world spawn point to 73, 110, 279 [0.0]]
+[13:27:47] [Server thread/INFO]: [fauxClove: Gamerule spawnRadius is now set to: 0]
+[13:28:15] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=274, y=-58, z=21}
+[13:28:15] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=274, y=-58, z=29}
+[13:28:15] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=279, y=-59, z=28}
+[13:28:15] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=279, y=-59, z=27}
+[13:28:15] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=279, y=-59, z=26}
+[13:28:15] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=306, y=-58, z=30}
+[13:28:15] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=305, y=-58, z=29}
+[13:28:18] [Server thread/INFO]: fauxClove was killed
+[13:28:18] [Server thread/INFO]: [fauxClove: Killed fauxClove]
+[13:28:21] [Server thread/INFO]: fauxClove was killed
+[13:28:21] [Server thread/INFO]: [fauxClove: Killed fauxClove]
+[13:28:26] [Server thread/INFO]: fauxClove was killed
+[13:28:26] [Server thread/INFO]: [fauxClove: Killed fauxClove]
+[13:28:34] [Server thread/INFO]: fauxClove lost connection: Disconnected
+[13:28:34] [Server thread/INFO]: fauxClove left the game
+[13:28:34] [Server thread/INFO]: [voicechat] Disconnecting client fauxClove
+[14:06:18] [Server thread/INFO]: Stopping the server
+[14:06:18] [Server thread/INFO]: Stopping server
+[14:06:18] [Server thread/INFO]: Saving players
+[14:06:18] [Server thread/INFO]: Saving worlds
+[14:06:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Server world 1]'/minecraft:overworld
+[14:06:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Server world 1]'/minecraft:the_end
+[14:06:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Server world 1]'/minecraft:the_nether
+[14:06:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:06:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:06:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:06:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

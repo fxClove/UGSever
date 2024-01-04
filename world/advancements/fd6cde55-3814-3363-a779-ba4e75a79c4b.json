@@ -1,0 +1,51 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-01-04 13:26:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-01-04 13:26:58 +0100"
+    },
+    "done": true
+  },
+  "global:norzeteus": {
+    "criteria": {
+      "trigger": "2024-01-04 13:26:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-01-04 13:26:58 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2024-01-04 13:26:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-04 13:26:58 +0100"
+    },
+    "done": true
+  },
+  "norzeteus:nz_nether": {
+    "criteria": {
+      "trigger": "2024-01-04 13:26:58 +0100"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2024-01-04 13:26:58 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
